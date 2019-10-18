@@ -1,0 +1,9 @@
+C:\Users\roads\source\repos\ClearText\ClearText\bin\Debug\ClearText.exe.config
+C:\Users\roads\source\repos\ClearText\ClearText\bin\Debug\ClearText.exe
+C:\Users\roads\source\repos\ClearText\ClearText\bin\Debug\ClearText.pdb
+C:\Users\roads\source\repos\ClearText\ClearText\obj\Debug\ClearText.csprojAssemblyReference.cache
+C:\Users\roads\source\repos\ClearText\ClearText\obj\Debug\ClearText.Properties.Resources.resources
+C:\Users\roads\source\repos\ClearText\ClearText\obj\Debug\ClearText.csproj.GenerateResource.cache
+C:\Users\roads\source\repos\ClearText\ClearText\obj\Debug\ClearText.exe
+C:\Users\roads\source\repos\ClearText\ClearText\obj\Debug\ClearText.pdb
+C:\Users\roads\source\repos\ClearText\ClearText\obj\Debug\ClearText.MainForm.resources
